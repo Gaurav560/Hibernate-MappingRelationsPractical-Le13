@@ -16,7 +16,7 @@ public class App {
 
 
         Laptop laptop = new Laptop();
-        laptop.setLid(109);
+        laptop.setLid(110);
         laptop.setLname("Dell");
 
 
@@ -29,7 +29,8 @@ public class App {
 
 
 
-
+// Set the student on the laptop as well
+        laptop.setStudent(student);
 
 
 

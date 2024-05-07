@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87bd66fc-98f9-44de-9afc-a65856e21de5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/InsidiousPlugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telusko/AppTest.java" afterDir="false" />
+    <list default="true" id="87bd66fc-98f9-44de-9afc-a65856e21de5" name="Changes" comment="hibernate relations mapping-le13">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,11 +83,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715075254505</updated>
-      <workItem from="1715075255680" duration="4001000" />
+      <workItem from="1715075255680" duration="5558000" />
     </task>
+    <task id="LOCAL-00001" summary="hibernate relations mapping-le13">
+      <option name="closed" value="true" />
+      <created>1715087767083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087767083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hibernate relations mapping-le13" />
+    <option name="LAST_COMMIT_MESSAGE" value="hibernate relations mapping-le13" />
   </component>
 </project>
